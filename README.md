@@ -1,4 +1,4 @@
-#BOTSv3
+### BOTSv3
 
 Suspicious activity was detected from internal host `192.168.3.130` which repeatedly contacted external server `54.67.127.227` indicating command-and-control beaconing and possible data exfiltration. Unusual AWS activity and heavy command execution on endpoint BSTOLL-L also suggest the system was compromised.
 
